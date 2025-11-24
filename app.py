@@ -5,3 +5,5 @@ money = float(money)
 hour_of_work = int(hour_of_work)
 
 weekly_payement = money * hour_of_work
+
+print(f"Your payment this week will be: ${weekly_payement}")
